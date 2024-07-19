@@ -1090,26 +1090,6 @@ ORDER BY
 -- headshot and kill rate by each weapon type
 	
 SELECT @@SERVERNAME AS 'Server Name'
-
-
---tasks:
--- Find correlation between kill count and usage, group by weapon types.
--- Correlation between kill count and headshots, group by weapon types.
--- Correlation between RPM/ROF and usage, group by weapon types. 
--- create visualization in tableau and possibly even power BI
--- make presentation in those if possible
--- make it visually appealing and easy on the eyes 
--- make destiny knowledge as less confusing as possible
-
-
-
-
-
-
-
-	
-
-
 -- the PVE usage, kills, and headshots are not to their full percentage values. I've decided to do it in another program.
 
 
